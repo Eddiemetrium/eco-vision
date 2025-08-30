@@ -302,7 +302,7 @@ export default function CarbonMarket() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Transparent Pricing</h3>
               <p className="text-gray-600">
-                No hidden fees. See exactly what you're paying with real-time price updates.
+                No hidden fees. See exactly what you&apos;re paying with real-time price updates.
               </p>
             </div>
 

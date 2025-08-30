@@ -219,7 +219,7 @@ export default function About() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Innovation</h3>
               <p className="text-gray-600">
-                Continuously pushing the boundaries of what's possible in sustainable agriculture.
+                Continuously pushing the boundaries of what&apos;s possible in sustainable agriculture.
               </p>
             </div>
 
@@ -253,7 +253,7 @@ export default function About() {
             Join Us in Building a Sustainable Future
           </h2>
           <p className="text-xl text-green-100 mb-8">
-            Whether you're a farmer looking to monetize your environmental impact or an investor seeking sustainable opportunities, we're here to help.
+            Whether you&apos;re a farmer looking to monetize your environmental impact or an investor seeking sustainable opportunities, we&apos;re here to help.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/register" className="bg-white text-green-600 hover:bg-gray-100 font-semibold py-3 px-8 rounded-lg transition-colors">

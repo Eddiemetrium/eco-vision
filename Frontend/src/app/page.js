@@ -36,11 +36,11 @@ export default function Home() {
               Build your carbon wallet, track environmental impact, and grow your green investments.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/register" className="btn-primary text-lg px-8 py-3 flex items-center justify-center">
+              <Link href="/register" className="btn-primary text-lg px-8 py-3">
                 Start Your Journey
                 <ArrowRight className="w-5 h-5 ml-2" />
               </Link>
-              <Link href="/about" className="btn-secondary text-lg px-8 py-3 flex items-center justify-center">
+              <Link href="/about" className="btn-secondary text-lg px-8 py-3">
                 Learn More
               </Link>
             </div>
@@ -193,7 +193,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-gray-600 mb-4">
-                "EcoVision has transformed how I manage my farm's carbon credits. The AI insights are incredibly accurate."
+                EcoVision has transformed how I manage my farm&apos;s carbon credits. The AI insights are incredibly accurate.
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-green-500 rounded-full mr-3"></div>
@@ -211,7 +211,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-gray-600 mb-4">
-                "The USSD integration makes it so easy to check my carbon wallet even without internet access."
+                The USSD integration makes it so easy to check my carbon wallet even without internet access.
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-blue-500 rounded-full mr-3"></div>
@@ -229,7 +229,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-gray-600 mb-4">
-                "Real-time tracking and verification give me confidence in the carbon credits I'm investing in."
+                Real-time tracking and verification give me confidence in the carbon credits I&apos;m investing in.
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 bg-purple-500 rounded-full mr-3"></div>

@@ -78,7 +78,7 @@ export default function Dashboard() {
             Welcome back, {user?.name || 'User'}!
           </h1>
           <p className="text-gray-600">
-            Here's what's happening with your carbon trading account
+            Here&apos;s what&apos;s happening with your carbon trading account
           </p>
         </div>
 

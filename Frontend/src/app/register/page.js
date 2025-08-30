@@ -430,7 +430,7 @@ export default function Register() {
                   <h4 className="font-medium text-green-900 mb-2">What happens next?</h4>
                   <ul className="text-sm text-green-800 space-y-1">
                     <li>• Your account will be created immediately</li>
-                    <li>• You'll need to complete KYC verification</li>
+                    <li>• You&apos;ll need to complete KYC verification</li>
                     <li>• Your carbon wallet will be set up</li>
                     <li>• You can start trading carbon credits</li>
                   </ul>

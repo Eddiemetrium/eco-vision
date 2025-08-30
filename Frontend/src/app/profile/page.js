@@ -417,7 +417,7 @@ export default function Profile() {
                   <div className="p-4 bg-gray-50 rounded-lg">
                     <h3 className="font-medium text-gray-900 mb-2">Required Documents</h3>
                     <ul className="text-sm text-gray-600 space-y-1">
-                      <li>• Government-issued ID (Passport, Driver's License)</li>
+                      <li>• Government-issued ID (Passport, Driver&apos;s License)</li>
                       <li>• Proof of Address (Utility Bill, Bank Statement)</li>
                       <li>• Selfie with ID</li>
                       <li>• Bank Statement (last 3 months)</li>
@@ -643,7 +643,7 @@ export default function Profile() {
                 >
                   <option value="">Select ID type</option>
                   <option value="passport">Passport</option>
-                  <option value="drivers-license">Driver's License</option>
+                  <option value="drivers-license">Driver&apos;s License</option>
                   <option value="national-id">National ID</option>
                 </select>
               </div>
