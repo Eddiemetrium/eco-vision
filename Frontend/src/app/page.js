@@ -36,11 +36,11 @@ export default function Home() {
               Build your carbon wallet, track environmental impact, and grow your green investments.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/register" className="btn-primary text-lg px-8 py-3">
+              <Link href="/register" className="btn-primary text-lg px-8 py-3 flex items-center justify-center">
                 Start Your Journey
                 <ArrowRight className="w-5 h-5 ml-2" />
               </Link>
-              <Link href="/about" className="btn-secondary text-lg px-8 py-3">
+              <Link href="/about" className="btn-secondary text-lg px-8 py-3 flex items-center justify-center">
                 Learn More
               </Link>
             </div>

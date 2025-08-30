@@ -199,17 +199,17 @@ const Navigation = () => {
                   </button>
                 </>
               ) : (
-                <div className="pt-4 space-y-2">
+                <div className="pt-4 space-y-6">
                   <Link 
                     href="/login" 
-                    className="block px-3 py-2 text-gray-700 hover:text-green-600 transition-colors"
+                    className="block px-3 py-3 text-gray-700 hover:text-green-600 transition-colors"
                     onClick={() => setIsMenuOpen(false)}
                   >
                     Login
                   </Link>
                   <Link 
                     href="/register" 
-                    className="block px-3 py-2 bg-green-500 text-white rounded-lg mx-3 text-center"
+                    className="block px-3 py-3 bg-green-500 text-white rounded-lg mx-3 text-center"
                     onClick={() => setIsMenuOpen(false)}
                   >
                     Get Started
